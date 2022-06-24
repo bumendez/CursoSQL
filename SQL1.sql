@@ -77,5 +77,7 @@ BEGIN
 select * from troops;
 
 CALL country_host ('Skull');
+
+SELECT * FROM GAME;
     
     
